@@ -1,3 +1,5 @@
-# bookbot
+# README
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project! 
+Script I built to quickly analyze character counts of text files
+
+Simply run python main.py <path/to/file>
